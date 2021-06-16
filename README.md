@@ -1,6 +1,6 @@
 ## Glass Morphism
 
-This is a simple application to show how I would create glass morpihsm using BlurView
+This is a simple application to show how I would create glass morphism using BlurView
 
 ```
 Pros:
