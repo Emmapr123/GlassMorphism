@@ -13,5 +13,5 @@ Cons:
 - Does not work well on Android at the moment
 ```
 
-![web](./assets/Screenshot 2021-06-16 at 17.38.57/png)
-![ios](./assets/Simulator Screen Shot - iPhone 12 Pro Max - 2021-06-16 at 17.37.33.png)
+![web](./assets/example_web.png)
+![ios](./assets/example_ios.png)
